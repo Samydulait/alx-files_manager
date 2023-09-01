@@ -528,11 +528,9 @@ bob@dylan:~$
 
 File: utils/, controllers/FilesController.js, worker.js
 
-** Authors:
+** Contributor:
 
 👤 GILLES BERTIN NEGOL-SAM
-
-
 
 GitHub: @Samydulait
 
